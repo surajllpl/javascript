@@ -1,0 +1,30 @@
+JavaScript
+
+- Visual Studio code (codeEditor) install 
+- extension Live Server 
+
+-how to run 
+    - right click in index.html file code and click on open with Live Server 
+    - it open in browser
+
+  01- first JavaScript code - Hello World
+        - console.log use for show meassage 
+
+  02 - variable declaration and assign value 
+        - "use strict" // use for proper declartion if missing delaration it show error msg
+
+  03 - variable declartion rules      
+        - starting with no and space between not allow
+        - show declaration format like var first_name = "suraj"; //snake case  var firstname = "suraj"; // camel case
+
+  04 - declare variable with let keyword   
+        - can not declare let with same name or repited
+        - block scope vs function scope    
+
+   05 - declare variable with const keyword   
+        - can not declare const with same name or repited
+        - const variable can not change or modify   
+
+     06 - String Indexing  
+        - can not declare const with same name or repited
+        - const variable can not change or modif     
