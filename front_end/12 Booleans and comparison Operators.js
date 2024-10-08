@@ -1,6 +1,6 @@
 
 
-// boleans & comparison operater
+// booleans & comparison operater
 
 let num ="5";
 let num2= 5;

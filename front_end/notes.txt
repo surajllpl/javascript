@@ -21,10 +21,92 @@ JavaScript
         - can not declare let with same name or repited
         - block scope vs function scope    
 
-   05 - declare variable with const keyword   
+  05 - declare variable with const keyword   
         - can not declare const with same name or repited
         - const variable can not change or modify   
 
-     06 - String Indexing  
+  06 - String Indexing  
         - can not declare const with same name or repited
-        - const variable can not change or modif     
+        - const variable can not change or modify
+
+  07 - Useful String Methods
+        - trim() remove spaces from given starting
+        - length - get lenght of given string
+        - toUpperCase() - String converted into UPPER case 
+        - toLowerCase() - String converted into lower case
+        - slice(start Index,end index) - String Start Index and End Index
+        - .split() method - split string into array
+        - .join() method - join array into string
+        - .includes() method - check if string contains given value
+        - .indexOf() method - get index of given value in string
+        - .charAt() method - get character at given index in string
+        - .substring() method - get substring from given index to end of string
+        - .replace() method - replace given value with new value in string
+        - .search() method - search given value in string and return index of first occurrence
+        - .match() method - search given value in string and return array of all occurrences
+         
+  08 - TypeOf, String to Number, Number to String Conversion
+        - typeof operator - get type of variable
+        - Number() function - convert string to number
+        - String() function - convert number to string
+        - before the string put + it convert string to number
+        - before the number put + it convert number to string
+
+  09 - String concatention
+        - + operator - string concatention
+        - eg.str = str1 +str2;
+
+   10 - Template String
+        - template String - string concatention using backtick(` `) and ${expression}
+        - eg. (`My Name is ${name}`)
+
+  11 - Null,Undefined and BigInt
+        - null - value is assigned to variable but it is not assigned any value
+        - undefined - variable is declared but it is not assigned any value
+        - BigInt - used to represent large integer value
+
+  12 - Booleans & Comparison operater
+        - Booleans - values can be in true or false
+        - comparison operator - ==, ===, !=, !==, >, <, >=, <=
+
+  13 - if else, truthy and falsy values
+        - if else - used to execute block of code based on condition
+        - condition are true it execute block of code
+        - condition are false it execute else block of code
+        - truthy values - values that are true in if condition
+        - falsy values - values that are false in if condition
+
+  14 - Ternery operator
+        - ternery operator - used to execute block of code based on condition
+        - eg. condition ? value if true : value if false
+
+  15 - nested if else
+        - nested if else - used to execute block of code based on multiple conditions
+        - eg. if (condition1) {
+            if (condition2) {
+             // code to be executed
+            }
+   16 - if elseif
+        - if elseif - used to execute block of code based on multiple conditions
+        - eg. if (condition1) {
+                // code to be executed
+                } elseif (condition2) {
+                    // code to be executed
+                   }
+
+
+      
+          
+
+
+
+
+
+
+
+
+
+
+ 
+        
+

@@ -9,7 +9,7 @@ let newString = first_Name.trim(); // remove space from given string
 
 console.log(newString.length)  // 5 // show result using another veriable
 
-first_Name = first_Name.trim(); // useing same variable
+first_Name = first_Name.trim(); // using same variable
 
 console.log(first_Name.length)// 5 
 
@@ -21,7 +21,7 @@ console.log(first_Name.toUpperCase()); // SURAJ
 
 console.log(first_Name.toLowerCase()); // suraj
 
-// star Index and end Index 
+// start Index and end Index 
 // .slice()
 
 let string = first_Name.slice(1,4);
