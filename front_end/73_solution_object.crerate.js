@@ -9,7 +9,7 @@ const userMethods = {
 
 function createUser(firstName,lastName,age,address){
 
-    const user =Object.create(userMethods); // Object.create can be refreance of object
+    const user =Object.create(userMethods); // Object.create can be refreance of (userMethod)object
     user.firstName =firstName;
     user.lastName =lastName;
     user.age =age;
@@ -21,5 +21,5 @@ function createUser(firstName,lastName,age,address){
 const user1 = createUser('suraj','jagtap',35,'pune');
 const user2 = createUser('mohan','garudkar',30,'mumbai');
 
-console.log(user1.about());
+console.log(user1); // proto is refrance of object
 console.log(user2.about());
