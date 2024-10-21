@@ -95,7 +95,9 @@ JavaScript
                 } elseif (condition2) {
                     // code to be executed
                    }
-
+   17 - Switch Statment
+        - switch case statment 
+        
 
       
           
