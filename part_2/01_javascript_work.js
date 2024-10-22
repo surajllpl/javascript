@@ -32,9 +32,9 @@ console.log(firstName); // suraj
 //         - window : window object
 //         - this : window object   // This is equal to window object
 //         - fisrtName : undefined // variable create
-//     // javascript is Synchronous programming language : line by line execution of code. first line execution copleted then second line execution start.
-//     // Asynchronous provide browser
-//     // Single Threded 
+//      javascript is Synchronous programming language : line by line execution of code. first line execution copleted then second line execution start.
+//      Asynchronous provide browser
+//      Single Threded 
 //     - code Execution Phase
 //         - console.log(this) : window object
 //         - console.log(window) : window object
