@@ -19,3 +19,7 @@
             - Global Object
             - variable initilization
         - create ececution phase (CEP)
+            - code execution
+            - function call
+            - function execution context (FEC)
+                - function code execution
