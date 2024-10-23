@@ -24,7 +24,7 @@
             - function execution context (FEC)
                 - function code execution
 # Closures :
-    - functon can return function
+    - function can return function
     - returned function can access outer function scope
     - returned function can modify outer function scope
     - returned function can be called multiple times
