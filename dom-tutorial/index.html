@@ -10,7 +10,7 @@
 
     <!-- <script src="01_dom.js" defer></script> this is right way to linking js to HTML -->
     <!-- <script src="02_getElemetById.js" defer></script> -->
-    <script src="16_clone_Nodes.js" defer></script>
+    <script src="21_this_inside_eventListener.js" defer></script>
 
 </head>
 <body>
@@ -25,7 +25,8 @@
         </nav>
         <div class="headline">
             <h2  id="main-heading">Manage your tasks <span style="display: none;">Hello</span></h2>
-            <button class="btn btn-headline">Learn More</button>
+           <!-- <button class="btn btn-headline" onclick="console.log('You clicked me.')">Learn More</button>  add event onclick() -->
+           <button class="btn btn-headline" >Learn More</button>
         </div>
     </header>
     <section class="section-todo container">
@@ -35,7 +36,12 @@
             <input class="btn" type="submit" value="Add Todo">
         </form>
         <ul class="todo-list">
-            <li>todo 1</li>
+            <!-- <li>todo 1</li> -->
+             <li>item 1</li>
+             <li>item 2</li>
+             <li>item 3</li>
+             <li>item 4</li>
+             <li>item 5</li>
 
         </ul>
     </section>
