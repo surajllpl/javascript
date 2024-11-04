@@ -23,6 +23,8 @@
         - Browser are parssing html file code 
         - when it reached a script tag, it will loading script and parssing html symentiously.   
         - it will not stop the parsing of html code
+
+        
         - script loading is completed then broswer can continuesly parssing all html code
         - it will not block the parsing of the HTML document
         
