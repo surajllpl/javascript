@@ -31,7 +31,10 @@
 # Dom-toturial
 1 . DOM -Introduction DOM - Document Object Modules 
 
-        
+ 2 . getElementById - 
+	- Accessing HTML Tags/Elements- div, h1, h2, a, p, ui etc.
+	- using document.getElementById("ID") - accessing by element ID or Classes
+       
 # this is best way to linking javascript file into the html file
 
 
