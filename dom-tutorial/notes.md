@@ -34,7 +34,9 @@
  2 . getElementById - 
 	- Accessing HTML Tags/Elements- div, h1, h2, a, p, ui etc.
 	- using document.getElementById("ID") - accessing by element ID or Classes
-       
+ 
+3 . querySelector -
+	- using document.querySelector(".class_name")
 # this is best way to linking javascript file into the html file
 
 
