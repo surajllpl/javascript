@@ -28,6 +28,8 @@
         - script loading is completed then broswer can continuesly parssing all html code
         - it will not block the parsing of the HTML document
 
+# Dom-toturial
+1 . DOM -Introduction DOM - Document Object Modules 
 
         
 # this is best way to linking javascript file into the html file
