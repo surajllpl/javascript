@@ -5,3 +5,9 @@
     asynchronous programming multi threaded
     asynchronous programming is faster than synchronous programming
 
+# setTimeout
+     setTimeout provided by web browser
+     setTimeout is used to execute a function after a specified time period
+
+
+
