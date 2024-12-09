@@ -1,10 +1,11 @@
-// Hoaisting
+// Hoisting
 
-hello();
+// 
+// hello();
 function hello(){
     console.log("hello");
 }
-
+hello()
 
 
 //error : Cannot access 'hello' before initialization

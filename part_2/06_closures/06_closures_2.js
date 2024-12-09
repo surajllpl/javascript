@@ -11,3 +11,6 @@ function hello(x){
 
 const ans = hello("arg");
 ans();
+
+// Output :
+// varA varB arg

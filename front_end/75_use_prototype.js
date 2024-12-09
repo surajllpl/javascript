@@ -9,7 +9,8 @@
 
 function createUser(firstName,lastName,age,address){
 
-    const user =Object.create(createUser.prototype); // Object.create can be refreance of (createUser.prototype)    user.firstName =firstName;
+    const user =Object.create(createUser.prototype); // Object.create can be refreance of (createUser.prototype)   
+    user.firstName =firstName;
     user.lastName =lastName;
     user.age =age;
     user.address = address;

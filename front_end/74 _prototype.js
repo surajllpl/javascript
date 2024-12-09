@@ -8,7 +8,7 @@ function hello(){
 
 console.log(hello.name); // function work like object
 //name property --> tells function name 
-// you can add your oen properties
+// you can add your own properties
 hello.age = 25;
 console.log(hello.age);
 
