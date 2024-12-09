@@ -14,7 +14,7 @@
 
 const body =document.body;
 const button = document.querySelector("button");
-console.log(button);
+console.log(button);//
 const id = setInterval(()=>{
     let r = Math.floor(Math.random() * 256);
     let g = Math.floor(Math.random() * 256);
