@@ -22,4 +22,9 @@
    - changing background color of body and stop changing button can stop it.
    - take a random color code and set interval for changing the background color. 
 
+03 callback -
+    - callback is used to pass a function as an argument to another function. 
+    - It is used to execute a function after a certain task is completed. 
+    - It is used to handle asynchronous operations.
+
 
