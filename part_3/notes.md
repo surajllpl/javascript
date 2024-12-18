@@ -31,4 +31,5 @@
 - function call function and dom pyramind
   
 # 04 Promise -
-
+ it is feature of browser
+ 
