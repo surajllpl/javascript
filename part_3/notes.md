@@ -30,5 +30,5 @@
   # callbackHell - 
 - function call function and dom pyramind
   
-
+# 04 Promise -
 
