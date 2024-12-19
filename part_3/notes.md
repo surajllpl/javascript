@@ -35,4 +35,5 @@
  it is used to handle asynchronous operation
  it is used to handle error and success both
  it is used to handle promise chain
- function can return promise
+ function can return promise.
+ promise resolve and chaining.
