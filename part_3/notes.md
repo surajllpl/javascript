@@ -41,3 +41,5 @@
 
 # function return promise
 # promise resolve and promise chaining
+- then() - then method always return Promise
+- if not return it then it return "undefined"
