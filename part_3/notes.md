@@ -40,3 +40,4 @@
 
 
 # function return promise
+# promise resolve and promise chaining
